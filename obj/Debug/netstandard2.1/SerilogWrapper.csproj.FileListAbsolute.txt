@@ -1,0 +1,10 @@
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\bin\Debug\netstandard2.1\SerilogWrapper.deps.json
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\bin\Debug\netstandard2.1\SerilogWrapper.dll
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\bin\Debug\netstandard2.1\SerilogWrapper.pdb
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\obj\Debug\netstandard2.1\SerilogWrapper.csproj.AssemblyReference.cache
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\obj\Debug\netstandard2.1\SerilogWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\obj\Debug\netstandard2.1\SerilogWrapper.AssemblyInfoInputs.cache
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\obj\Debug\netstandard2.1\SerilogWrapper.AssemblyInfo.cs
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\obj\Debug\netstandard2.1\SerilogWrapper.csproj.CoreCompileInputs.cache
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\obj\Debug\netstandard2.1\SerilogWrapper.dll
+C:\Users\nlxli\Kerridge & Partners\Code Repository - 文档\Repositories\repos_xl\SerilogWrapper\obj\Debug\netstandard2.1\SerilogWrapper.pdb
